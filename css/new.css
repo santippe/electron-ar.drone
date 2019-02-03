@@ -1,0 +1,24 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    min-height: 800px;
+    min-width: 800px;
+}
+body>*{
+    position: absolute;
+}
+#leftmenu{
+    left: 0xp;width: 200px;
+    top: 0px;bottom: 0px;
+    background-color: #777;
+}
+#leftmenu>div{
+    padding: 10px;
+}
+#maincont{
+    background-color: #888;
+    left: 200px;
+    right: 0px;
+    top: 0px;
+    bottom: 0px;
+}
